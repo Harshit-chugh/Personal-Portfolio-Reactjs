@@ -8,7 +8,7 @@ This project showcases my skills, projects, and provides a fully working contact
 
 ## 🌐 Live Links
 
-* **Frontend (Vercel):** [https://personal-portfolio-reactjs-cgfy.vercel.app](https://personal-portfolio-reactjs-cgfy.vercel.app)
+* **Frontend (Vercel):** [https://harshit-chugh.vercel.app](https://harshit-chugh.vercel.app)
 * **Backend (Node + Express):** Deployed separately (Render / Railway / cyclic)
 
 ---

@@ -6,6 +6,7 @@ import { Internships } from "@/sections/Internships";
 import { Testimonials } from "@/sections/Testimonials";
 import { Contact } from "@/sections/Contact";
 import { Footer } from "./layout/Footer";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Contact />
       </main>
       <Footer/>
+      <SpeedInsights />
     </div>
   );
 }
